@@ -1,0 +1,27 @@
+/********************
+YOUR STYLES
+*******************/
+
+p {
+    padding: 40px;
+}
+
+
+/********************
+MEDIA QUERIES
+*******************/
+
+/* Desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+
+}
+
+/* Mobile */
+@media (min-width: 480px) {
+
+}
